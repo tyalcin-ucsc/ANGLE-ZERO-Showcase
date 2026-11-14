@@ -4,7 +4,7 @@
 
 **A fast-paced multiplayer first-person shooter developed for Roblox.**
 
-[**▶ Watch the gameplay showcase**](https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/download/showcase-v1/ANGLE_ZERO_Gameplay_Showcase.mp4) &nbsp;·&nbsp; 1:19 &nbsp;·&nbsp; 1080p60
+[**⬇ Download the gameplay showcase**](https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/download/showcase-v1/ANGLE_ZERO_Gameplay_Showcase.mp4) &nbsp;·&nbsp; 1:19 &nbsp;·&nbsp; 1080p60
 
 </div>
 
@@ -12,10 +12,10 @@
 
 ## Gameplay Showcase
 
-[![ANGLE ZERØ gameplay showcase: click to watch](media/gameplay-poster.jpg)](https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/download/showcase-v1/ANGLE_ZERO_Gameplay_Showcase.mp4)
+![ANGLE ZERØ gameplay: rooftop soda tanks bursting](media/gameplay-poster.jpg)
 
 <p align="center">
-  <a href="https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/download/showcase-v1/ANGLE_ZERO_Gameplay_Showcase.mp4"><b>▶ Watch the gameplay video</b></a> (MP4, 1:19, 1080p60)
+  <a href="https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/download/showcase-v1/ANGLE_ZERO_Gameplay_Showcase.mp4"><b>⬇ Download the full-quality gameplay video</b></a> (MP4, 1:19, 1080p60, 151 MB)
   &nbsp;·&nbsp;
   <a href="https://github.com/tyalcin-ucsc/ANGLE-ZERO-Showcase/releases/tag/showcase-v1">Release page</a>
 </p>
