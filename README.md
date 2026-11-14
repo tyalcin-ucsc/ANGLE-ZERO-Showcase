@@ -47,8 +47,6 @@ The project focuses on:
 - **Presentation:** custom animations, effects, sounds and a full menu flow.
 - **Multiplayer systems:** gameplay decisions are made and validated on the server.
 
-The firearm foundation started from Roblox's official Laser Tag template. I have since extended it into a complete game with my own movement, melee, match, menu, weapon-presentation and map systems.
-
 ## Key Features
 
 ### Combat System
@@ -78,7 +76,7 @@ The firearm foundation started from Roblox's official Laser Tag template. I have
 
 ### Maps and Interactions
 
-- **Sunfizz Bottling Works:** my redesign of a community map base by EpicKomrade, with a new palette, a decor layer, lighting and ambient audio.
+- **Sunfizz Bottling Works:** a soda-factory arena with its own palette, decor layer, lighting and ambient audio.
 - **Interactive soda tanks:** rooftop tanks build pressure from server-validated hits and burst, then refill. They reset every round.
 - **Vending machine effects:** the Task Force vending machine reacts to shots and knife hits and dispenses cans.
 - **Breakable bottles:** soda bottles on the factory conveyors shatter when shot.
